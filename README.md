@@ -1,3 +1,5 @@
+![YPKM Carreer Timeline Image](./ypkm-banner.png)
+
 # Yatheendra Pravan Kidambi Murali
 Hola!👋, Presently, I am a Student at <a href="https://www.tcd.ie/" target="_blank" rel="noopener noreferrer">Trinity College Dublin</a>, pursuing Master's in <strong>Computer Science</strong>, specializing in <u><i>Intelligent Systems</i></u>.  I am passionate about Mathematics and Machine learning and an avid Chess Player. 
 
