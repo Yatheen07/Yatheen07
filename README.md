@@ -4,4 +4,7 @@
 Hola!👋, Presently, I am a Student at <a href="https://www.tcd.ie/" target="_blank" rel="noopener noreferrer">Trinity College Dublin</a>, pursuing Master's in <strong>Computer Science</strong>, specializing in <u><i>Intelligent Systems</i></u>.  I am passionate about Mathematics and Machine learning and an avid Chess Player. 
 
 ![YPKM Carreer Timeline Image](./educationTimeline.png)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 516533b01a57c3f9a776797da42e68fa7dd7c9a7
