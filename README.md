@@ -4,3 +4,10 @@
 Hola!👋, Presently, I am a Student at <a href="https://www.tcd.ie/" target="_blank" rel="noopener noreferrer">Trinity College Dublin</a>, pursuing Master's in <strong>Computer Science</strong>, specializing in <u><i>Intelligent Systems</i></u>.  I am passionate about Mathematics and Machine learning and an avid Chess Player. 
 
 ![YPKM Carreer Timeline Image](./educationTimeline.png)
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Yatheen07&count_private=true&show_icons=true&hide=contribs)
+
+<a href="mailto:pravan.yatheen@gmail.com">![pravan.yatheen@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+<a href="https://www.linkedin.com/in/yatheendra-pravan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
