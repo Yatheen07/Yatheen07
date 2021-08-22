@@ -22,8 +22,3 @@ Hola!👋, Presently, I am a Student at <a href="https://www.tcd.ie/" target="_b
 <h2>📫 Connect with me:</h2>
 
 <a href="mailto:pravan.yatheen@gmail.com">![pravan.yatheen@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> &nbsp; <a href="https://www.linkedin.com/in/yatheendra-pravan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> &nbsp; <a href="https://t.me/chat_with_kmy">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-</div>
-
-
-
-
