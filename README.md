@@ -5,9 +5,25 @@ Hola!👋, Presently, I am a Student at <a href="https://www.tcd.ie/" target="_b
 
 ![YPKM Carreer Timeline Image](./educationTimeline.png)
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Yatheen07&count_private=true&show_icons=true&hide=contribs)
 
-<a href="mailto:pravan.yatheen@gmail.com">![pravan.yatheen@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<h2>👀 Stats</h2>
 
-<a href="https://www.linkedin.com/in/yatheendra-pravan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<table border="0">
+ <tr>
+    <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=Yatheen07&count_private=true&show_icons=true&hide=contribs" alt="GitHub Stats" />
+    </td>
+    <td>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yatheen07" alt="GitHub Stats" />
+    </td>
+ </tr>
+</table>
+
+<h2>📫 Connect with me:</h2>
+
+<a href="mailto:pravan.yatheen@gmail.com">![pravan.yatheen@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> &nbsp; <a href="https://www.linkedin.com/in/yatheendra-pravan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> &nbsp; <a href="https://t.me/chat_with_kmy">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+</div>
+
+
+
 
